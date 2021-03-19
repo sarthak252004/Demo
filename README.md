@@ -1,2 +1,2 @@
 # Demo
-This is a demo for the Commudle Lab
+This is a demo repository for the Commudle Lab. You can fork it, make some changes and create a pull request for better understanding.
